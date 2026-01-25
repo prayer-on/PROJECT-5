@@ -6,7 +6,7 @@ import { faAngleUp } from "@fortawesome/free-solid-svg-icons";
 
 function SmFilter({title, content}) {
 
-const [isOpen, setIsOpen] = useState(0)
+const [isOpen, setIsOpen] = useState(false)
 
     return(
     <div className="wrapper-small-filter">

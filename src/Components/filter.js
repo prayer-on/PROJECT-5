@@ -5,7 +5,7 @@ import { faAngleUp } from "@fortawesome/free-solid-svg-icons";
 
 function Filter({title}) {
 
-const [isOpen, setIsOpen] = useState(0)
+const [isOpen, setIsOpen] = useState(false)
 
     return(
          <div className="wrapper-filter">
