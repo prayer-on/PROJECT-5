@@ -69,3 +69,65 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # PROJECT-5
+<h3>📖 Description:</h3>
+
+- A modern & dynamic website for an apartment rental company.
+
+
+<h3>🚀 Demo:</h3>
+
+-
+
+<h3>🛠️ Technologies:</h3>
+
+- React
+- Sass
+- CSS3
+- HTML5
+- JavaScript
+
+
+<h3>💻 Functionalities:</h3>
+
+- Interactive UI elements
+- Dynamic content filtering
+- Semantic HTML
+
+
+<h3>📸 Screenshot:</h3>
+
+<img>
+<br>
+
+<h3>⚙️ Installation:</h3>
+To run this project locally, you can follow these steps:
+
+1. Clone the repository:
+`git clone https://github.com/prayer-on/PROJECT-5.git`
+
+2. Select the Backend folder:
+`cd Backend`
+
+3. Install the dependencies:
+`npm install`
+
+4. Start the server:
+`npm run dev`
+
+
+<h3>🧠 What I've learned:</h3>
+
+- 
+
+
+<h3>📈 Improvements:</h3>
+
+- 
+
+
+<h3>👤 Author:</h3>
+
+- Prayer Onaiwu - [prayer.onaiwu@gmail.com]
+
+
+
