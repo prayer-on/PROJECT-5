@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # PROJECT-5
 <h3>📖 Description:</h3>
 
-- A modern & dynamic website for an apartment rental company.
+- A modern, dynamic, and fully responsive website for an apartment rental company.
 
 
 <h3>🚀 Demo:</h3>
