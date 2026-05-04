@@ -114,13 +114,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 To run this project locally, you can follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/prayer-on/PROJECT-5.git`
+```bash
+git clone https://github.com/prayer-on/PROJECT-5.git
+```
 
 2. Install the dependencies:
-`npm install`
+```bash
+npm install
+```
 
 3. Start the server:
-`npm run start`
+```bash
+npm run start
+```
 
 
 <h3>🧠 What I've learned:</h3>
