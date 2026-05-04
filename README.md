@@ -41,6 +41,7 @@
 <br>
 
 <h3>⚙️ Installation:</h3>
+
 To run this project locally, you can follow these steps:
 
 1. Clone the repository:
