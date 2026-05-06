@@ -1,4 +1,4 @@
-# PROJECT-5
+# Kasa
 <h3>📖 Description:</h3>
 
 - A modern, dynamic, and fully responsive website for an apartment rental company.
