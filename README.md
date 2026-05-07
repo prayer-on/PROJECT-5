@@ -49,12 +49,17 @@ To run this project locally, you can follow these steps:
 git clone https://github.com/prayer-on/PROJECT-5.git
 ```
 
-2. Install the dependencies:
+2. Select the Project folder:
+```bash
+cd PROJECT-5
+```
+
+3. Install the dependencies:
 ```bash
 npm install
 ```
 
-3. Start the server:
+4. Start the server:
 ```bash
 npm run start
 ```
