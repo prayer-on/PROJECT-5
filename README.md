@@ -10,10 +10,10 @@
 
 <h3>🛠️ Technologies:</h3>
 
-- React
-- React Router
-- Sass
-- JavaScript (ES6+)
+- `React`
+- `React Router`
+- `Sass`
+- `JavaScript (ES6+)`
 
 
 <h3>💻 Functionalities:</h3>
