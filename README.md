@@ -47,12 +47,12 @@ To run this project locally, you can follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/prayer-on/PROJECT-5.git
+git clone https://github.com/prayer-on/kasa-website.git
 ```
 
 2. Select the Project folder:
 ```bash
-cd PROJECT-5
+cd kasa-website
 ```
 
 3. Install the dependencies:
