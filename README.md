@@ -6,7 +6,7 @@
 
 <h3>🚀 Demo:</h3>
 
-- [Live Preview](prayeronaiwukasa-website.vercel.app)
+- [Live Preview](https://prayeronaiwukasa-website.vercel.app/)
 
 
 <h3>🛠️ Technologies:</h3>
